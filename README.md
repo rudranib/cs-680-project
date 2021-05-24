@@ -1,5 +1,6 @@
 # cs-680-project
-Accident Severity Prediction
+
+## Accident Severity Prediction
 
 Oct 2020 – Dec 2020
 
